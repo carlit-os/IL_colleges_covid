@@ -1,53 +1,53 @@
-date,state,county,city,ipeds_id,college,cases,notes
-12/11/20,Illinois,Rock Island,Rock Island,143084,Augustana College,134,
-12/11/20,Illinois,Kane,Aurora,143118,Aurora University,101,
-12/11/20,Illinois,DuPage,Lisle,145619,Benedictine University,45,
-12/11/20,Illinois,Macoupin,Carlinville,143288,Blackburn College,,
-12/11/20,Illinois,Peoria,Peoria,143358,Bradley University,429,
-12/11/20,Illinois,Cook,Chicago,144005,Chicago State University,71,
-12/11/20,Illinois,Cook,Chicago,144281,Columbia College Chicago,71,
-12/11/20,Illinois,Cook,River Forest,144351,Concordia University Chicago,63,
-12/11/20,Illinois,Cook,Chicago,144740,DePaul University,50,
-12/11/20,Illinois,Cook,River Forest,148496,Dominican University,151,
-12/11/20,Illinois,Coles,Charleston,144892,Eastern Illinois University,493,
-12/11/20,Illinois,DuPage,Elmhurst,144962,Elmhurst University,146,
-12/11/20,Illinois,Woodford,Eureka,144971,Eureka College,45,
-12/11/20,Illinois,Cook,University Park,145336,Governors State University,45,
-12/11/20,Illinois,Bond,Greenville,145372,Greenville University,76,
-12/11/20,Illinois,Morgan,Jacksonville,145691,Illinois College,72,
-12/11/20,Illinois,Cook,Chicago,145725,Illinois Institute of Technology,133,
-12/11/20,Illinois,McLean,Normal,145813,Illinois State University,1945,
-12/11/20,Illinois,McLean,Bloomington,145646,Illinois Wesleyan University,213,
-12/11/20,Illinois,Clinton,Centralia,146366,Kaskaskia College,97,
-12/11/20,Illinois,Knox,Galesburg,146427,Knox College,48,
-12/11/20,Illinois,Lake,Lake Forest,146481,Lake Forest College,8,
-12/11/20,Illinois,Coles,Mattoon,146506,Lake Land College,94,
-12/11/20,Illinois,Will,Romeoville,146612,Lewis University,251,
-12/11/20,Illinois,Cook,Chicago,146719,Loyola University Chicago,215,
-12/11/20,Illinois,St. Clair,Lebanon,147013,McKendree University,197,
-12/11/20,Illinois,DuPage,Downers Grove,143853,Midwestern University at Downers Grove,105,
-12/11/20,Illinois,Macon,Decatur,147244,Millikin University,183,
-12/11/20,Illinois,Warren,Monmouth,147341,Monmouth College,44,
-12/11/20,Illinois,Cook,Chicago,147369,Moody Bible Institute,76,
-12/11/20,Illinois,DuPage,Naperville,147660,North Central College,260,
-12/11/20,Illinois,Cook,Chicago,147679,North Park University,157,
-12/11/20,Illinois,Cook,Chicago,147776,Northeastern Illinois University,189,
-12/11/20,Illinois,Dekalb,Dekalb,147703,Northern Illinois University ,589,
-12/11/20,Illinois,Cook,Evanston,147767,Northwestern University,394,
-12/11/20,Illinois,Kankakee,Bourbonnais,147828,Olivet Nazarene University,70,
-12/11/20,Illinois,Champaign,Champaign,147916,Parkland College,199,
-12/11/20,Illinois,Jersey,Elsah,148016,Principia College,3,
-12/11/20,Illinois,Adams,Quincy,148131,Quincy University,267,
-12/11/20,Illinois,Winnebago,Rockford,148405,Rockford University,85,
-12/11/20,Illinois,Cook,Chicago,148627,Saint Xavier University,211,
-12/11/20,Illinois,Cook,Chicago,143048,School of the Art Institute of Chicago,41,
-12/11/20,Illinois,Saline,Harrisburg,148937,Southeastern Illinois College,28,
-12/11/20,Illinois,Jackson,Carbondale,149222,Southern Illinois University Carbondale,239,
-12/11/20,Illinois,Madison,Edwardsville,149231,Southern Illinois University Edwardsville,238,
-12/11/20,Illinois,St. Clair,Belleville,143215,Southwestern Illinois College,,
-12/11/20,Illinois,Cook,Chicago,144050,University of Chicago,471,
-12/11/20,Illinois,Sangamon,Springfield,148654,University of Illinois Springfield,177,
-12/11/20,Illinois,Champaign,Champaign,145637,University of Illinois Urbana-Champaign,4407,
-12/11/20,Illinois,Cook,Chicago,145600,University of Illinois at Chicago,1220,
-12/11/20,Illinois,McDonough,Macomb,149772,Western Illinois University,292,
-12/11/20,Illinois,DuPage,Wheaton,149781,Wheaton College,10,
+date,state,county,city,ipeds_id,college,cases
+12/11/20,Illinois,Rock Island,Rock Island,143084,Augustana College,134
+12/11/20,Illinois,Kane,Aurora,143118,Aurora University,101
+12/11/20,Illinois,DuPage,Lisle,145619,Benedictine University,45
+12/11/20,Illinois,Macoupin,Carlinville,143288,Blackburn College,
+12/11/20,Illinois,Peoria,Peoria,143358,Bradley University,429
+12/11/20,Illinois,Cook,Chicago,144005,Chicago State University,71
+12/11/20,Illinois,Cook,Chicago,144281,Columbia College Chicago,71
+12/11/20,Illinois,Cook,River Forest,144351,Concordia University Chicago,63
+12/11/20,Illinois,Cook,Chicago,144740,DePaul University,50
+12/11/20,Illinois,Cook,River Forest,148496,Dominican University,151
+12/11/20,Illinois,Coles,Charleston,144892,Eastern Illinois University,493
+12/11/20,Illinois,DuPage,Elmhurst,144962,Elmhurst University,146
+12/11/20,Illinois,Woodford,Eureka,144971,Eureka College,45
+12/11/20,Illinois,Cook,University Park,145336,Governors State University,45
+12/11/20,Illinois,Bond,Greenville,145372,Greenville University,76
+12/11/20,Illinois,Morgan,Jacksonville,145691,Illinois College,72
+12/11/20,Illinois,Cook,Chicago,145725,Illinois Institute of Technology,133
+12/11/20,Illinois,McLean,Normal,145813,Illinois State University,1945
+12/11/20,Illinois,McLean,Bloomington,145646,Illinois Wesleyan University,213
+12/11/20,Illinois,Clinton,Centralia,146366,Kaskaskia College,97
+12/11/20,Illinois,Knox,Galesburg,146427,Knox College,48
+12/11/20,Illinois,Lake,Lake Forest,146481,Lake Forest College,8
+12/11/20,Illinois,Coles,Mattoon,146506,Lake Land College,94
+12/11/20,Illinois,Will,Romeoville,146612,Lewis University,251
+12/11/20,Illinois,Cook,Chicago,146719,Loyola University Chicago,215
+12/11/20,Illinois,St. Clair,Lebanon,147013,McKendree University,197
+12/11/20,Illinois,DuPage,Downers Grove,143853,Midwestern University at Downers Grove,105
+12/11/20,Illinois,Macon,Decatur,147244,Millikin University,183
+12/11/20,Illinois,Warren,Monmouth,147341,Monmouth College,44
+12/11/20,Illinois,Cook,Chicago,147369,Moody Bible Institute,76
+12/11/20,Illinois,DuPage,Naperville,147660,North Central College,260
+12/11/20,Illinois,Cook,Chicago,147679,North Park University,157
+12/11/20,Illinois,Cook,Chicago,147776,Northeastern Illinois University,189
+12/11/20,Illinois,Dekalb,Dekalb,147703,Northern Illinois University ,589
+12/11/20,Illinois,Cook,Evanston,147767,Northwestern University,394
+12/11/20,Illinois,Kankakee,Bourbonnais,147828,Olivet Nazarene University,70
+12/11/20,Illinois,Champaign,Champaign,147916,Parkland College,199
+12/11/20,Illinois,Jersey,Elsah,148016,Principia College,3
+12/11/20,Illinois,Adams,Quincy,148131,Quincy University,267
+12/11/20,Illinois,Winnebago,Rockford,148405,Rockford University,85
+12/11/20,Illinois,Cook,Chicago,148627,Saint Xavier University,211
+12/11/20,Illinois,Cook,Chicago,143048,School of the Art Institute of Chicago,41
+12/11/20,Illinois,Saline,Harrisburg,148937,Southeastern Illinois College,28
+12/11/20,Illinois,Jackson,Carbondale,149222,Southern Illinois University Carbondale,239
+12/11/20,Illinois,Madison,Edwardsville,149231,Southern Illinois University Edwardsville,238
+12/11/20,Illinois,St. Clair,Belleville,143215,Southwestern Illinois College,
+12/11/20,Illinois,Cook,Chicago,144050,University of Chicago,471
+12/11/20,Illinois,Sangamon,Springfield,148654,University of Illinois Springfield,177
+12/11/20,Illinois,Champaign,Champaign,145637,University of Illinois Urbana-Champaign,4407
+12/11/20,Illinois,Cook,Chicago,145600,University of Illinois at Chicago,1220
+12/11/20,Illinois,McDonough,Macomb,149772,Western Illinois University,292
+12/11/20,Illinois,DuPage,Wheaton,149781,Wheaton College,10
